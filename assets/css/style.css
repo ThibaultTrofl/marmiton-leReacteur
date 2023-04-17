@@ -1,0 +1,35 @@
+body {
+  background-color: #dad6d6;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+.textBold {
+  font-weight: bold;
+}
+.textBlue {
+  color: blue;
+}
+
+/* --------- HEADER -------*/
+header {
+  background-color: #a0a0a0;
+  height: 83px;
+  border-bottom-color: black solid 1px;
+  box-sizing: border-box;
+}
+header > div {
+  height: 100%;
+}
+
+header img {
+}
